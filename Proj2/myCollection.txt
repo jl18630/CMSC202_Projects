@@ -1,0 +1,26 @@
+90   Shellder   425   42   1
+104   Cubone   988   98   2
+133   Eevee   677   67   2
+7   Squirtle   502   50   2
+21   Spearow   686   68   1
+11   Metapod   458   45   1
+7   Squirtle   751   75   2
+133   Eevee   393   39   2
+46   Paras   1098   109   2
+107   Hitmonchan   1677   167   4
+21   Spearow   520   52   1
+133   Eevee   661   66   2
+66   Machop   1016   101   2
+133   Eevee   916   91   2
+39   Jigglypuff   1005   100   2
+113   Chansey   302   30   1
+60   Poliwag   553   55   1
+32   Nidoran(f)   100   10   1
+52   Meowth   668   66   1
+46   Paras   800   79   2
+51   Dugtrio   813   81   3
+109   Koffing   659   65   3
+29   Nidoran(m)   689   67   1
+10   Caterpie   223   22   1
+83   Farfetchd   427   42   3
+
